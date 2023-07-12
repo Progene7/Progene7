@@ -8,13 +8,6 @@
 />
 
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=progene7&label=Profile%20views&color=0e75b6&style=flat"
-    alt="progene7"
-  />
-</p>
-
-<p align="left">
   <a href="https://twitter.com/" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
@@ -25,17 +18,16 @@
 - 🌱 I’m currently learning **React frameworks, OAuth authentication using
 PassportJS, and storing UserData using MongoDB**
  - 💬 Ask me about **MERN Stack,
-Data Structures and Algorithms and Web development**
+Data Structures, Algorithms and Web development**
  - 📫 Contact Me: **agarwal.parth25@gmail.com**
 
 
 
 <h3 >Languages and Tools:</h3>
 <p>
-  <a href="https://www.python.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/c676b5f90a1650624a0a9832d7954edda1db39ad3347d90c8c51e88ff2f92252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d6461726b677265656e" alt="alt text" data-canonical-src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=darkgreen" style="max-width: 100%;"></a> <br> <br>
+  <a href="https://www.python.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/c676b5f90a1650624a0a9832d7954edda1db39ad3347d90c8c51e88ff2f92252/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d6461726b677265656e" alt="alt text" data-canonical-src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=darkgreen" style="max-width: 100%;"></a>
 
-  <a href="https://www.w3schools.com/cpp/" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="alt text" data-canonical-src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.w3schools.com/cpp/" rel="nofollow"><img src="https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="alt text" data-canonical-src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width: 100%;"></a>
 
   <a href="https://reactjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="alt text" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
  
